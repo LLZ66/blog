@@ -1,0 +1,142 @@
+{
+  "id": "1716941",
+  "name": "llzweb",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1051590",
+      "name": "刘",
+      "font_class": "liu",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "3758777",
+      "name": "正在播放",
+      "font_class": "zhengzaibofang",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "1458367",
+      "name": "暂停",
+      "font_class": "zanting1",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "7643",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3789153",
+      "name": "树叶",
+      "font_class": "shuye",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "6339389",
+      "name": "海浪",
+      "font_class": "hailang",
+      "unicode": "e810",
+      "unicode_decimal": 59408
+    },
+    {
+      "icon_id": "13478683",
+      "name": "白天",
+      "font_class": "A",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "13478684",
+      "name": "夜晚",
+      "font_class": "A1",
+      "unicode": "e6e6",
+      "unicode_decimal": 59110
+    },
+    {
+      "icon_id": "12978114",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "12978146",
+      "name": "左箭头",
+      "font_class": "zuojiantou",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "2570093",
+      "name": "问号",
+      "font_class": "wenhao",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "2674878",
+      "name": "箭头 上",
+      "font_class": "jiantoushang",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "2674929",
+      "name": "箭头 下",
+      "font_class": "jiantouxia",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "3902920",
+      "name": "橘子",
+      "font_class": "juzi",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "9594816",
+      "name": "风",
+      "font_class": "feng",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "9058317",
+      "name": "8_3前端开发",
+      "font_class": "_qianduankaifa",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "5089578",
+      "name": "flower4",
+      "font_class": "flower",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "7141644",
+      "name": "music",
+      "font_class": "music",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "10972001",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    }
+  ]
+}

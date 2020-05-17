@@ -1,0 +1,20 @@
+{
+  "forest": [
+    {"name":"Alice（Cover 古川本舗）","singer":"米白","time":"5:04","url":"/music/forest/米白 - Alice（Cover 古川本舗）.mp3"}
+  ],
+  "ocean": [
+    {"name":"約束の海.mp3", "singer":"伍伍慧", "time": "3.54", "url":"/music/ocean/伍伍慧 (satoshi gogo) - 約束の海.mp3"}
+  ],
+  "daily": [
+    {"name":"夏天的风 (Live)", "singer":"刘瑞琦 ", "time": "3:18", "url":"/music/daily/刘瑞琦 - 夏天的风 (Live).mp3"},
+    {"name":"天天 (Live)", "singer":"陶喆 ", "time": "4:34", "url":"/music/daily/陶喆 - 天天 (Live).mp3"},
+    {"name":"花落无声", "singer":"杨斌 ", "time": "4:05", "url":"/music/daily/杨斌 - 花落无声.mp3"}
+  ],
+  "night": [
+    {"name":"안녕 (再见)", "singer":"孝琳 (효린) ", "time": "3:38", "url":"/music/night/孝琳 (효린) - 안녕 (再见).mp3"},
+    {"name":"寂寞烟火", "singer":"朱婧汐 ", "time": "4：33", "url":"/music/night/朱婧汐 Akini Jing - 寂寞烟火.mp3"}
+  ],
+  "commend":[
+    {"name":"下雨天","singer":"南拳妈妈","time":"4:13","url":"/music/commend/南拳妈妈 - 下雨天.mp3"}
+  ]
+}

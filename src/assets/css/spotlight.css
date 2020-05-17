@@ -1,0 +1,42 @@
+.spotlight {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, .2);
+}
+.spotlight h1 {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  font-size: 4rem;
+  letter-spacing: -.3rem;
+}
+.spotlight h1::after {
+  content: attr(data-spotLight);
+  color: transparent;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: 1px solid transparent;
+  clip-path: ellipse(50px 50px at 0%  50%);
+  animation: portLight 5s infinite;
+  /* animation-fill-mode: forwards; */
+  background-image: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588398199646&di=666532420dfdf9b5becf9dcb8a67857a&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201701%2F15%2F20170115120717_zh5K3.thumb.700_0.jpeg);
+  background-size: 150%;
+  background-position: center center;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+@keyframes portLight {
+  0% {
+    clip-path: ellipse(50px 50px at 0%  50%);
+  }
+  50% {
+    clip-path: ellipse(50px 50px at 100%  50%);
+  }
+  100% {
+    clip-path: ellipse(50px 50px at 0%  50%);
+  }
+}
